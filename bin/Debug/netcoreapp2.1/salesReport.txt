@@ -1,0 +1,4 @@
+Chiclets|1
+Heavy|1
+Potato Crisps|5
+**Total Sales** $17.50
